@@ -1,0 +1,21 @@
+div class="elaine">
+    <img src="elaine.png" alt="elaine" class="foto_elaine"/>
+<div class="fundo_elaine"></div>
+<div class="texto_elaine">
+    <h2>Navegando por:</h2>
+</div>
+<select class="status">
+    <option selected desable value="">Selecione</option>
+    <option>Ocupado</option>
+    <option>Livre</option>
+    <option>Em LIVE</option>
+</select>
+<select class="humor_elaine">
+    <option selected desable value=""></option>
+    <option>FELIIIIZ</option>
+    <option>PUTOO</option>
+    <option>Pensativo</option>
+    <option>Normal '-'</option>
+</select>
+</div>
+    
